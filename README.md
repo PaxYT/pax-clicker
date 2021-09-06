@@ -5,8 +5,8 @@ Its like a auto clicker.
 
 
 TAGS:
-Click
-Auto
-Growtopia
+Click , 
+Auto , 
+Growtopia , 
 Game
 
